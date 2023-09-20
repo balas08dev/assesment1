@@ -1,0 +1,10 @@
+.wrapper1{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 3%;
+}
+
+.wrapper2{
+    padding: 3px;
+}
+
