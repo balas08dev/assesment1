@@ -2,6 +2,7 @@
     display: flex;
     flex-wrap: wrap;
     margin: 3%;
+    justify-content: space-between;
 }
 
 .wrapper2{
